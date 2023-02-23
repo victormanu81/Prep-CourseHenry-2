@@ -1,2 +1,2 @@
-# Prep-CourseHenry-2
-Comenzando el Prep Course de Henry , por segunda vez
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
+SaLUDOS
